@@ -81,6 +81,12 @@ Gromit expects SSH access to the specified servers under a particular user.
 To change the SSH user, we suggest to modify the `scripts/surfnet_*.sh` scripts.
 
 ## Tutorials
-A tutorial that gets you up and running with Gumby is available [here](docs/tutorials/experiment_tutorial_1.rst).
+A tutorial that gets you up and running with Gumby is available [here](https://github.com/tribler/gubmy/docs/tutorials/experiment_tutorial_1.rst).
 
-TODO: add citation link
+## Citation
+
+Please use the following bibtex entry:
+
+TBA
+
+
