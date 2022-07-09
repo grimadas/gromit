@@ -18,7 +18,8 @@ All code related to experiments can be found in the `experiments` directory.
 
 The Gromit architecture overview is visualized below:
 
-TODO: add figure (I already put it in the docs directory, named grom_arch.png)
+<img src="docs/grom_arch.png" width="200" />
+
 
 The orchestrator coordinates the project and communicates with one or more Gromit instances that are running on 
 remote servers. We provide below the instructions on how to setup these remote servers, and how to run a particular 
