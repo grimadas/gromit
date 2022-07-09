@@ -18,7 +18,7 @@ All code related to experiments can be found in the `experiments` directory.
 
 The Gromit architecture overview is visualized below:
 
-<img src="docs/grom_arch.png" width="200" />
+<img src="docs/grom_arch.png" width="800" />
 
 
 The orchestrator coordinates the project and communicates with one or more Gromit instances that are running on 
