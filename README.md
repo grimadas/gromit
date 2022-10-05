@@ -87,6 +87,15 @@ A tutorial that gets you up and running with Gumby is available [here](https://g
 
 Please use the following bibtex entry:
 
-TBA
+```
+@inproceedings{nasrulin2022gromit,
+  title={Gromit: Benchmarking the Performance and Scalability of Blockchain Systems},
+  author={Nasrulin, Bulat and De Vos, Martijn and Ishmaev, Georgy and Pouwelse, Johan},
+  booktitle={2022 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS)},
+  pages={56--63},
+  year={2022},
+  organization={IEEE}
+}
+```
 
 
