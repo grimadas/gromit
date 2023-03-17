@@ -1,7 +1,7 @@
 # Gromit Blockchain Benchmarking Tool
 
 This repository contains the code for the Gromit blockchain benchmarking tool.
-The tool is based on [an existing experiment framework](https://github.com/tribler/gubmy) and has been modified to 
+The tool is based on [an existing experiment framework](https://github.com/tribler/gumby) and has been modified to 
 support the benchmarking of blockchain fabrics. Gromit supports the following blockchain platforms and versions:
 - Algorand (v2.3.0)
 - Avalanche (v1.1.1)
@@ -29,7 +29,7 @@ experiment.
 Start by cloning this repository from GitHub by running the following command:
 
 ```
-git clone https://github.com/tribler/gromit
+git clone https://github.com/grimadas/gromit
 ```
 
 On the remote servers, make sure to install the necessary dependencies for the blockchain platform you wish to test.
@@ -81,7 +81,7 @@ Gromit expects SSH access to the specified servers under a particular user.
 To change the SSH user, we suggest to modify the `scripts/surfnet_*.sh` scripts.
 
 ## Tutorials
-A tutorial that gets you up and running with Gumby is available [here](https://github.com/tribler/gubmy/docs/tutorials/experiment_tutorial_1.rst).
+A tutorial that gets you up and running with Gumby is available [here](https://github.com/tribler/gumby/blob/devel/docs/tutorials/experiment_tutorial_1.rst).
 
 ## Citation
 
